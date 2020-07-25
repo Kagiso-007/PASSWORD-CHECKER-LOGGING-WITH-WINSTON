@@ -6,16 +6,16 @@
 - Debug level logs are only printed on the console.
 
 ### Compiling '.ts' files to '.js'
-- tsc filename.ts
+> tsc *filename.ts*
 
 ### Running the tests (Jasmine)
-- npm test
-- Note: 
-To run the tests successfully, first ensure that the 'password_checker.ts' file is successfully compiled to '.js'.
+> npm test
+**Note:** To run the tests successfully, first ensure that the 'password_checker.ts' file is successfully compiled to '.js'.
 
 ### Executing the functionality from 'password_checker.ts'
-- tsc Main.ts && node Main.js   or
-- ts-node Main.ts
+> tsc Main.ts && node Main.js 
+**or**
+> ts-node Main.ts
 
 ### Author
 Kagiso Raseroka
