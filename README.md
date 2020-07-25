@@ -10,7 +10,7 @@
 
 ### Running the tests (Jasmine)
 > npm test
-**Note:** To run the tests successfully, first ensure that the 'password_checker.ts' file is successfully compiled to '.js'.
+- **Note:** To run the tests successfully, first ensure that the 'password_checker.ts' file is successfully compiled to '.js'.
 
 ### Executing the functionality from 'password_checker.ts'
 > tsc Main.ts && node Main.js 
